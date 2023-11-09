@@ -1,6 +1,6 @@
 # **Yuliya Kuzmich**
 
-![My photo]()
+![My photo](/img/My_profile_image.jpg)
 **************************************************************
 ## **Contacts**:
 * kuzmich.yuliya@gmail.com
@@ -49,9 +49,11 @@ function strCount(obj){
 
 ## **Education**
 *************************************************************
-- Belarusian State Economic University. Economist-manager.
-- Course Front-End Development (Meta) in process.
+- The Rolling Scopes School. Stage 1. Currently studying
+- Course Front-End Development (Meta) in process
+- The Rolling Scopes School. Stage 0. 26/07/2023 - 31/10/2023
 - FreCodeCamp
+- Belarusian State Economic University. Economist-manager
 
 ## **Work Experience**
 *************************************************************
