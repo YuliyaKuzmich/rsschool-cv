@@ -1,6 +1,6 @@
 # **Yuliya Kuzmich**
 
-![My photo](/img/My_profile_image.jpg)
+![My photo](My_profile_image.jpg)
 **************************************************************
 ## **Contacts**:
 * kuzmich.yuliya@gmail.com
