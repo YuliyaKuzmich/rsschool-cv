@@ -65,4 +65,4 @@ Organised and run IELTS and Cambridge English Exams. Exam Centre BY002.
 - English - B2
 - Polish - B2
 - Russian - C1
-- Belarusian - C1 
+- Belarusian - C2 
