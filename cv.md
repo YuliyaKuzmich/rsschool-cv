@@ -49,7 +49,18 @@ function strCount(obj){
 
 ## **Education**
 *************************************************************
+- Belarusian State Economic University. Economist-manager.
+- Course Front-End Development (Meta) in process.
+- FreCodeCamp
+
 ## **Work Experience**
 *************************************************************
-## **Foreign Languages**
+International House Minsk. Administrator. June 2013- August 2021.
+Organised and run IELTS and Cambridge English Exams. Exam Centre BY002.
+
+## **Languages**
 *************************************************************
+- English - B2
+- Polish - B2
+- Russian - C1
+- Belarusian - C1 
